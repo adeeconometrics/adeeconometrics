@@ -1,5 +1,5 @@
 ### Hi, I'm Dave.
-I'm a Computer Science student, and I write about things I find interesting on my [blog](https://typedcode.net/). I am working on writing compilers. Aside from that, I am interested in Machine Learning and Formal Languages.
+I'm a Computer Science student, and I write about things I find interesting on my [blog](https://www.typedcode.net/). I am working on writing compilers. Aside from that, I am interested in Machine Learning and Formal Languages.
  
 👩🏻‍💻: C++, Python, Java, C#, Swift, Dart, SQL, R, Julia, TeX, Powershell, Bash, PHP, Ruby, Perl
 
