@@ -1,6 +1,6 @@
 ### Hi, I'm Dave.
 
-I'm a Computer Science undergrad. I occassionally write on my [blog](https://www.typedcode.net/) the things I find interesting. I'm focusing on Compilers, SPV through Blockchain, Hardware emulation, Differentiable programming, and Transformer-based models.
+I occasionally write on my [blog](https://www.typedcode.net/) the things I find interesting. 
  
 👩🏻‍💻: C++, Python, Java, C#, SQL, Julia, TeX, Bash, PHP
 
