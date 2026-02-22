@@ -1,6 +1,8 @@
 ### Hi, I'm Dave.
 
-I occasionally write the things I find interesting on my [blog](https://www.typedcode.net/). 
+I'm mostly working on enterprise software but ocassionally explore problem domains in the open.
+
+I occasionally write the things I find interesting on my [blog](https://www.typedcode.org/). 
  
 👩🏻‍💻: C++, Python, C#, SQL, Julia, TeX, Bash
 
